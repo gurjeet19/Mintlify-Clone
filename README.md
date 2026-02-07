@@ -2,6 +2,13 @@
 
 A static clone of the [Mintlify](https://mintlify.com) landing page built with HTML and CSS.
 
+## 📸 Preview
+
+Here's what the clone looks like:
+
+![Resume Full Page](./screenshot/preview.png)
+
+
 ## Overview
 
 This project recreates the Mintlify documentation platform's landing page for practice and learning purposes.
